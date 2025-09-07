@@ -1,5 +1,4 @@
-# E-Learning Platform (MERN)
-Software Engineering Course Project
+# E-Learning Platform
 
 ## Description
 A simple E-Learning Platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
